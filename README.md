@@ -4,6 +4,8 @@ This is a series of research/tutorial jupyter notebooks demonstrating basic conc
 
 ## Notebooks
 
-- [Preprocessing Data](notebooks/preprocessing.ipynb): Learn to preprocess data using regularization/normalization on input features.
+- Preprocessing Data: Learn to preprocess data using normalization and standardization on input features.
+	- [Pokemon classification](notebooks/preprocessing_pokemon_classification.ipynb)
+	- [Human activity classification](notebooks/preprocessing_human_activity_classification.ipynb) using mobile accelerometer data
 - [Hyperparameter Search](notebooks/hyperparameter_search.ipynb): Automate the process of selecting/fine tuning the hyperparameters used in a neural network.
 - [Clustering and Dimensionality Reduction](notebooks/clustering_and_dimensionality_reduction.ipynb): Use K-means clustering that groups similar english words using [GloVe embeddings](https://github.com/brannondorsey/glove-experiments).
